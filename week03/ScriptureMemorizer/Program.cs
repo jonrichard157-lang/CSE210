@@ -31,7 +31,7 @@ class Program
         scriptures.Add(
             new Scripture(
                 new Reference("Proverbs", 3, 5),
-                "Trust in the Lord with all your heart and lean not on your own understanding."
+                "Trust in the Lord with all your heart and lean not on your own understanding.  "
             )
         );
 
